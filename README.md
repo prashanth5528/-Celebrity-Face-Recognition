@@ -1,4 +1,4 @@
-# -Celebrity-Face-Recognition
+# Celebrity-Face-Recognition
 
 
 Machine Learning is one of the trending and emerging technologies. Face Detection and Face Recognition are two different but interesting applications of Machine Learning.
